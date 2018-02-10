@@ -33,7 +33,7 @@ function currentLine(array, name) {
       
     }
     
-    return `The line is currently: ${newArray}` ;  
+    return `The line is currently:${newArray}` ;  
     
   }
 }

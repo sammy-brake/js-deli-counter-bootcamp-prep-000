@@ -29,7 +29,7 @@ function currentLine(array, name) {
     var newArray = [] ; 
     
     for (var n=0; n < array.length; n++) {
-      newArray.push(`${n + 1}. ${array[n]} `);
+      newArray.push(` ${n + 1}. ${array[n]}`);
       
     }
     
